@@ -40,7 +40,7 @@ A URL para envio dos dados segue o seguinte formato:
 
 ```
 
-[http://api.thingspeak.com/update?api\_key=SUA\_API\_KEY\&field1=VALOR](http://api.thingspeak.com/update?api_key=SUA_API_KEY&field1=VALOR)
+[http://api.thingspeak.com/update?api\_key=SUA\_API\_KEY\&field1=VALOR]
 
 ```
 
